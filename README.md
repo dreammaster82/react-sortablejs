@@ -1,5 +1,1 @@
-# THIS PROJECT NEEDS A MAINTAINER.
-
----
-
-# HELP WANTED ;]
+React plugin for SortableJS

@@ -1,6 +1,6 @@
 {
   "name": "react-sortablejs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A React binding to SortableJS.",
   "main": "react-sortable.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SortableJS/react-sortablejs/issues"
   },
-  "homepage": "https://github.com/SortableJS/react-sortablejs#readme"
+  "homepage": "https://github.com/SortableJS/react-sortablejs#readme",
+  "dependencies": {
+	"sortablejs": "^1.7.0"
+  }
 }
